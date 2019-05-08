@@ -1,2 +1,5 @@
 # hello-world
-My first repository 
+
+Hello !
+
+this is the tutorial in the github plataform 
