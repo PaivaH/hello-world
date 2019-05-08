@@ -2,4 +2,4 @@
 
 Hello !
 
-this is my tutorial in the github plataform 
+this is the tutorial in the github plataform 
